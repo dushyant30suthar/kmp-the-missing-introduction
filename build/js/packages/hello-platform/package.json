@@ -1,0 +1,17 @@
+{
+  "name": "hello-platform",
+  "version": "0.0.0-unspecified",
+  "main": "kotlin/hello-platform.js",
+  "devDependencies": {
+    "source-map-support": "0.5.21",
+    "webpack": "5.108.1",
+    "webpack-cli": "7.2.1",
+    "kotlin-web-helpers": "3.3.0",
+    "source-map-loader": "5.0.0",
+    "webpack-dev-server": "6.0.0"
+  },
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

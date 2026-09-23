@@ -1,0 +1,17 @@
+[
+  {
+    "moduleId": {
+      "groupAndName": {
+        "group": "org.jetbrains.kotlin",
+        "name": "kotlin-stdlib"
+      },
+      "componentId": {
+        "type": "module",
+        "group": "org.jetbrains.kotlin",
+        "name": "kotlin-stdlib"
+      }
+    },
+    "file": "/Users/dushyantsuthar/Project/tennarrates/website/series/kmp-the-missing-introduction/kitchen/kmp-the-missing-introduction/.worktrees/hello-platform/build/kotlinTransformedMetadataLibraries/commonMain/org.jetbrains.kotlin-kotlin-stdlib-2.4.20-commonMain-MgaIfA.klib",
+    "sourceSetName": "commonMain"
+  }
+]
