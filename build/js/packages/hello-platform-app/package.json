@@ -1,0 +1,12 @@
+{
+  "name": "hello-platform-app",
+  "version": "0.0.0-unspecified",
+  "main": "kotlin/hello-platform-app.js",
+  "devDependencies": {
+    "source-map-support": "0.5.21"
+  },
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

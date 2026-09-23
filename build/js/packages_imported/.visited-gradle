@@ -1,0 +1,11 @@
+{
+  "version": "9",
+  "items": {
+    "dfd78e92874a9acc81b10edebec1849f": {
+      "src": "/Users/dushyantsuthar/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-js/2.4.20/2436d1447a468519e1246c9e3fcbea6d0b74cd6e/kotlin-stdlib-js-2.4.20.klib"
+    },
+    "8ffe0cca868057b45b0bc2d4ddd7b27c": {
+      "src": "/Users/dushyantsuthar/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-dom-api-compat/2.4.20/fc35ced80b1cc0470ae9ad50f87fc5ee6f10482b/kotlin-dom-api-compat-2.4.20.klib"
+    }
+  }
+}

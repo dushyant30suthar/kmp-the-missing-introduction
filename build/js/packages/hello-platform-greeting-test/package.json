@@ -1,0 +1,14 @@
+{
+  "name": "hello-platform-greeting-test",
+  "version": "0.0.0-unspecified",
+  "main": "kotlin/hello-platform-greeting-test.js",
+  "devDependencies": {
+    "mocha": "11.7.6",
+    "source-map-support": "0.5.21",
+    "kotlin-web-helpers": "3.3.0"
+  },
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
