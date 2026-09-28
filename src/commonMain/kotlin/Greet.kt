@@ -1,7 +1,7 @@
 expect fun platformName(): String
 
-fun greet(): String = "Hello from ${platformName()}"
+fun hello(): String = "Hello, ${platformName()}!"
 
 fun main() {
-    println(greet())
+    println(hello())
 }

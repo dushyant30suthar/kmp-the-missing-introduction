@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "what-is-multiplatform"
+rootProject.name = "hello-platform"

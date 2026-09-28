@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Hello, Platform! — browser</title>
+  </head>
+  <body>
+    <pre id="out"></pre>
+    <script>
+      // show what the Kotlin module prints, in the DOM
+      const out = document.getElementById("out");
+      const log = console.log;
+      console.log = (...args) => {
+        out.textContent += args.join(" ");
+        log(...args);
+      };
+    </script>
+    <script src="../build/js/packages/hello-platform/kotlin/kotlin-kotlin-stdlib.js"></script>
+    <script src="../build/js/packages/hello-platform/kotlin/hello-platform.js"></script>
+  </body>
+</html>
