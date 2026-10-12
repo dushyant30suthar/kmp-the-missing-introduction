@@ -9,6 +9,9 @@ kotlin {
     macosArm64()
     linuxX64()
     mingwX64()
+    iosArm64()
+    watchosArm64()
+    tvosArm64()
     js(IR) {
         nodejs()
         binaries.executable()
@@ -30,6 +33,24 @@ kotlin {
     mingwX64 {
         binaries {
             sharedLib()
+        }
+    }
+
+    iosArm64 {
+        binaries {
+            framework()
+        }
+    }
+
+    watchosArm64 {
+        binaries {
+            framework()
+        }
+    }
+
+    tvosArm64 {
+        binaries {
+            framework()
         }
     }
 }
